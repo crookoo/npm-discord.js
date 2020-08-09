@@ -21,6 +21,8 @@
     "url": "https://github.com/crookoo/npm-locator/issues"
   },
   "homepage": "https://github.com/crookoo/npm-locator#readme",
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
   "devDependencies": {}
 }
