@@ -1,0 +1,26 @@
+{
+  "name": "npm-locator",
+  "version": "1.0.0",
+  "description": "Findet das Ursprungsland der eingehenden Anfrage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crookoo/npm-locator.git"
+  },
+  "keywords": [
+    "ip",
+    "geo",
+    "country"
+  ],
+  "author": "\"Michael Zimmermann \\ <info@michaelzimmermann.com\\> (https://www.michaelzimmermann.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crookoo/npm-locator/issues"
+  },
+  "homepage": "https://github.com/crookoo/npm-locator#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
